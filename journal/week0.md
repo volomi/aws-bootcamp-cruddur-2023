@@ -2,9 +2,7 @@
 
 # WEEK ZERO
 
-I understood consignment very well including the services budgets , i was also able to draw lucid charts. Additionally i would like to add
-
-C4 and TOGAF are two different types of models used in the field of business and enterprise architecture.
+I understood consignment very well including the services budgets , i was also able to draw lucid charts. Additionally i would like to add C4 and TOGAF are two different types of models used in the field of business and enterprise architecture.
 
 C4 (Customers, Channels, Value Proposition, and Revenue Streams) is a simple business model framework that focuses on the four key components of a business. It is used to develop a clear understanding of a business' target customers, channels, value proposition, and revenue streams, and is typically used in the context of business strategy and planning.
 
